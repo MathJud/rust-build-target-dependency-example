@@ -1,0 +1,4 @@
+[workspace]
+members = ["mybin"]
+exclude = ["mylib"]
+resolver = "2"
